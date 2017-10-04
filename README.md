@@ -1,1 +1,3 @@
-# Snake
+#SNAKE
+
+Our Snake School Project 
