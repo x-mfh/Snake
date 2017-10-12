@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SnakeV2.Properties
+namespace Snake.Properties
 {
 
 
