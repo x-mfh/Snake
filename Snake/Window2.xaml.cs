@@ -22,11 +22,42 @@ namespace Snake
         public Window2()
         {
             InitializeComponent();
+            
         }
 
         private void Window_Closed(object sender, EventArgs e)
         {
             Environment.Exit(0);
         }
+
+        private void ColorChoice_Loaded(object sender, RoutedEventArgs e)
+        { 
+            ColorChoice.ItemsSource = Enum.GetNames(typeof(PlayerSnake.Color));
+            ColorChoice.SelectedIndex = 0;
+        }
+        
+        private void ColorChoice_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            PlayerSnake.Color playerColorChoice;
+            Enum.TryParse(ColorChoice.SelectedValue.ToString(), out playerColorChoice);
+        }
+
+        private void DifficultyChoice_Loaded(object sender, RoutedEventArgs e)
+        {
+            
+            DifficultyChoice.ItemsSource = Enum.GetNames(typeof(Game.Difficulty));
+            DifficultyChoice.SelectedIndex = 0;
+        }
+
+        
+
+        private void DifficultyChoice_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            Game.Difficulty playerDifficultyChoice;
+            Enum.TryParse(DifficultyChoice.SelectedValue.ToString(), out playerDifficultyChoice);
+        }
+
+
+
     }
 }
