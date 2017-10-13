@@ -33,3 +33,7 @@ C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.exe
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.pdb
 >>>>>>> b94b66058ba6de4dc3575d81191327e6119bd3fb
+C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window2.g.cs
+C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window3.g.cs
+C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window2.baml
+C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window3.baml
