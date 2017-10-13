@@ -1,41 +1,19 @@
-<<<<<<< HEAD
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\bin\Debug\Snake.exe.config
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\bin\Debug\Snake.exe
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\bin\Debug\Snake.pdb
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\App.g.cs
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake_MarkupCompile.lref
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.g.resources
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.exe
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.pdb
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\MainWindow.g.cs
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\MainWindow.baml
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window2.g.cs
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window2.baml
-=======
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\bin\Debug\Snake.exe.config
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\bin\Debug\Snake.exe
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\bin\Debug\Snake.pdb
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\MainWindow.g.cs
+C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window2.g.cs
+C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window3.g.cs
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\App.g.cs
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake_MarkupCompile.lref
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\MainWindow.baml
+C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window2.baml
+C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window3.baml
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.g.resources
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.exe
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Snake.pdb
->>>>>>> b94b66058ba6de4dc3575d81191327e6119bd3fb
-C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window2.g.cs
-C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window3.g.cs
-C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window2.baml
-C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window3.baml
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window3.g.cs
-C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window3.baml
