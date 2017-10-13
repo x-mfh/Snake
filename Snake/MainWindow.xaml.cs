@@ -20,9 +20,32 @@ namespace Snake
     /// </summary>
     public partial class MainWindow : Window
     {
+
         public MainWindow()
         {
             InitializeComponent();
         }
+
+        
+
+        private void NewGame_Click_1(object sender, RoutedEventArgs e)
+        {
+            Window2 win2 = new Window2();
+            this.Hide();
+            win2.Top = this.Top;
+            win2.Left = this.Left;
+            win2.Show();
+        }
+
+        private void test(double x, double y)
+        {
+        }
+
+        private void Window_Closed(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+        }
     }
+
+
 }
