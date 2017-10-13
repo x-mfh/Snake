@@ -20,6 +20,7 @@ namespace Snake
             Alive,
             Dead
         }
+        public static Color test;
 
         public void GetStatus(Alive alive)
         {

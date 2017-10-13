@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Snake"
         mc:Ignorable="d"
-        Title="Snake" Height="350" Width="525" ResizeMode="NoResize" Closed="Window_Closed">
-    <Grid>
-        
-    </Grid>
+        Title="Snake" Height="350" Width="525" ResizeMode="NoResize" Closed="Window_Closed" Loaded="Window_Loaded">
+    <Canvas x:Name="Page" Loaded="Page_Loaded">
+
+    </Canvas>
 </Window>

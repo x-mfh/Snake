@@ -13,6 +13,7 @@ namespace Snake
         public int food_x;
         public int food_y;
 
+        
 
         public enum Difficulty
         {
@@ -44,16 +45,6 @@ namespace Snake
 
         }
 
-        public static void BorderGen(Difficulty test, Window3 window)
-        {
-
-          
-
-            //if (Border == true)
-            //{
-            //    // Gen border
-            //}
-        }
 
     }
 }

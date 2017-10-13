@@ -37,3 +37,5 @@ C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window3.g.cs
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window2.baml
 C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window3.baml
+C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window3.g.cs
+C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\Window3.baml

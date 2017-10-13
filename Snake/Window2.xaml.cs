@@ -19,6 +19,7 @@ namespace Snake
     /// </summary>
     public partial class Window2 : Window
     {
+        Game.Difficulty playerDifficultyChoice;
         public Window2()
         {
             InitializeComponent();
@@ -39,7 +40,7 @@ namespace Snake
         private void ColorChoice_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             PlayerSnake.Color playerColorChoice;
-            Enum.TryParse(ColorChoice.SelectedValue.ToString(), out playerColorChoice);
+            Enum.TryParse(ColorChoice.SelectedValue.ToString(), out PlayerSnake.test);
         }
 
         private void DifficultyChoice_Loaded(object sender, RoutedEventArgs e)
@@ -53,7 +54,7 @@ namespace Snake
 
         private void DifficultyChoice_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            Game.Difficulty playerDifficultyChoice;
+            
             Enum.TryParse(DifficultyChoice.SelectedValue.ToString(), out playerDifficultyChoice);
         }
 
