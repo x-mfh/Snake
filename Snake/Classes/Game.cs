@@ -44,12 +44,15 @@ namespace Snake
 
         }
 
-        public void BorderGen()
+        public static void BorderGen(Difficulty test, Window3 window)
         {
-            if (Border == true)
-            {
-                // Gen border
-            }
+
+          
+
+            //if (Border == true)
+            //{
+            //    // Gen border
+            //}
         }
 
     }
