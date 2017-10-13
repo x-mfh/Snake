@@ -57,7 +57,13 @@ namespace Snake
             Enum.TryParse(DifficultyChoice.SelectedValue.ToString(), out playerDifficultyChoice);
         }
 
-
-
+        private void Quit_Click(object sender, RoutedEventArgs e)
+        {
+            Window3 win3 = new Window3();
+            this.Hide();
+            win3.Top = this.Top;
+            win3.Left = this.Left;
+            win3.Show();
+        }
     }
 }

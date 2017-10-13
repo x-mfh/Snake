@@ -12,7 +12,7 @@
         <ComboBox Name="ColorChoice" HorizontalAlignment="Left"  Margin="50,40,0,0" Height="20" Width="120" Loaded="ColorChoice_Loaded" SelectionChanged="ColorChoice_SelectionChanged"/>
         <Label Name="DifficultyTxt" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="60,130" FontSize="15" >Pick a difficulty</Label>
         <ComboBox Name="DifficultyChoice" HorizontalAlignment="Right"  Margin="0,40,50,0" Height="20" Width="120" Loaded="DifficultyChoice_Loaded" SelectionChanged="DifficultyChoice_SelectionChanged"/>
-        <Button Name="Quit" Width="100" Height="30" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="50,40,50,1" Background="Black" Foreground="white">Start</Button>
+        <Button Name="Quit" Width="100" Height="30" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="50,40,50,1" Background="Black" Foreground="white" Click="Quit_Click">Start</Button>
 
     </Grid>
 </Window>
