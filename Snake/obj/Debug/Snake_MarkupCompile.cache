@@ -4,17 +4,30 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\
+=======
+C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\obj\Debug\
+>>>>>>> b94b66058ba6de4dc3575d81191327e6119bd3fb
 Snake
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Users\BADE\Documents\Visual Studio 2017\Projects\Snake\Snake\App.xaml
 2603691550
 
 61586533909
 131569487696
 MainWindow.xaml;Window2.xaml;
+=======
+C:\Users\miha\Documents\Visual Studio 2017\Projects\Snake\Snake\App.xaml
+11151548125
+
+5-2017746502
+131569487696
+MainWindow.xaml;
+>>>>>>> b94b66058ba6de4dc3575d81191327e6119bd3fb
 
 False
 
