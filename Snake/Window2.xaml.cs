@@ -10,35 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Snake
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Window2.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Window2 : Window
     {
-
-        public MainWindow()
+        public Window2()
         {
             InitializeComponent();
-        }
-
-        
-
-        private void NewGame_Click_1(object sender, RoutedEventArgs e)
-        {
-            Window2 win2 = new Window2();
-            this.Hide();
-            win2.Top = this.Top;
-            win2.Left = this.Left;
-            win2.Show();
-        }
-
-        private void test(double x, double y)
-        {
         }
 
         private void Window_Closed(object sender, EventArgs e)
@@ -46,6 +29,4 @@ namespace Snake
             Environment.Exit(0);
         }
     }
-
-
 }
